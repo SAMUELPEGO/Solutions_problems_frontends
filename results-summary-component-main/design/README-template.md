@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-./Captura web_5-11-2023_16051_.jpeg
+(../Captura web_5-11-2023_16051_.jpeg)
 
 
 ### Links
