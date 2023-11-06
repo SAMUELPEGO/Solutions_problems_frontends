@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-[preview](Captura web_5-11-2023_16051_.jpeg)
+[[preview](Captura web_5-11-2023_16051_.jpeg)](https://github.com/SAMUELPEGO/Solutions_problems_frontends/blob/main/Captura%20web_5-11-2023_16051_.jpeg?raw=true)
 
 
 ### Links
